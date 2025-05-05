@@ -23,6 +23,7 @@ SELECT example1 FROM table1 UNION SELECT NULL, NULL, NULL
 way2
 
 SELECT a,b FROM table1 order by 1/2/3
+
 ' order by 1/2/3   payload
 
 Ссылка на лаб:
